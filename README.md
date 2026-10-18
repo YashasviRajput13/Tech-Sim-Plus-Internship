@@ -1,4 +1,4 @@
-# 🤖 Yashasvi's Enhanced ChatBot
+# 🤖 Yashasvi's Enhanced ChatBot & Face Detection System
 
 A powerful, feature-rich chatbot application built with Streamlit and powered by Groq AI. This enhanced version includes conversation memory, multiple AI models, customizable settings, and a modern UI.
 
